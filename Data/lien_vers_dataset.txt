@@ -1,0 +1,9 @@
+Deepfake and Real Images (Kaggle, auteur : manjilkarki)
+https://www.kaggle.com/datasets/manjilkarki/deepfake-and-real-images
+
+Identifiant kagglehub : manjilkarki/deepfake-and-real-images
+Le notebook télécharge le jeu automatiquement (cellule 1) avec :
+    import kagglehub
+    path = kagglehub.dataset_download("manjilkarki/deepfake-and-real-images")
+
+Contenu : ~190 000 visages 256x256, partitions Train / Validation / Test, classes Fake / Real (~1,7 Go).
